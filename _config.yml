@@ -1,0 +1,16 @@
+# 完全禁用Jekyll处理
+theme: null
+plugins: []
+
+# 明确包含和排除文件
+include: []
+exclude: []
+
+# 禁用所有Jekyll功能
+safe: true
+markdown: kramdown
+highlighter: rouge
+
+# 禁用自动构建
+future: false
+unpublished: false
